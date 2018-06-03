@@ -1,6 +1,6 @@
 # My Python Tricks
 
-I am working on Python 2.7 so it is possible that some trick does not work in Python 3, or maybe there are better options.
+I am working on Python 2.7 so it is possible that some trick does not work in Python 3, or maybe there are better options. Please, be aware that I am not always following the pythonic way :stuck_out_tongue_winking_eye: .
 
 ## Checking arguments and return types
 
