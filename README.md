@@ -20,7 +20,7 @@ Example:
 >>> class Test(object):
 ... @accepts(object, str, int)
 ... @returns(int)
-... def test_method(a, b):
+... def test_method(self, a, b):
 ...   return 1
     
 >>> t = Test()
