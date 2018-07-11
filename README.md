@@ -99,10 +99,12 @@ Example:
    >>> add(1, 'hello')
    '1 + hello'
 ```
-   
+
 References:
 * [Understanding the multiple dispatch technique](https://en.wikipedia.org/wiki/Multiple_dispatch)
 * [Multiple Dispatch package](https://github.com/mrocklin/multipledispatch)
+
+## Mocking
 
 ## Others things
 * [Github wiki syntax](https://help.github.com/categories/writing-on-github/)
